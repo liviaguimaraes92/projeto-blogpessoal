@@ -51,7 +51,7 @@ atualizar(){
     this.alertas.showAlertInfo('As senhas estão incorretas.')
 
   } else {
-    this.authService.cadastrar(this.user).subscribe((resp: User) => {
+    this.authService.atualizar(this.user).subscribe((resp: User) => {
       this.user = resp
       this.router.navigate(['/inicio'])
       this.alertas.showAlertSuccess('Usuário atualizado com sucesso, faça o login novamente.')
