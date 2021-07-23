@@ -5,5 +5,5 @@ export const environment = {
   id: 0,
   foto: '',
   tipo: '',
-  server: 'https://darkard.herokuapp.com'
+  server: 'https://darkrad.herokuapp.com'
 };
