@@ -10,7 +10,7 @@ link do projeto: https://darkrad.herokuapp.com/
 <p>
 <p>
   
-<h4>Propriets</h4>
+<h4>Properties</h4>
 <a href="https://imgur.com/AmLY4SZ"><img src="https://i.imgur.com/AmLY4SZ.png" title="source: imgur.com" /></a>
 <p>
 <p>
