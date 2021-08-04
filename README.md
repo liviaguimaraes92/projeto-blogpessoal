@@ -1,27 +1,71 @@
-# BlogPessoal
+Nesse repositório está o projeto que desenvolvi para aprender e fixar os conhecimentos back-end e front-end. O darkrad é um projeto de blog pessoal com tematica a escolha própria, como parte dos estudos da Generation Brasil.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
+link do projeto: https://darkrad.herokuapp.com/
 
-## Development server
+ 💻 ScreenShots
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<h4>Spring</h4>
 
-## Code scaffolding
+<a href="https://imgur.com/7IYVNZs"><img src="https://i.imgur.com/7IYVNZs.png" title="source: imgur.com" /></a>
+<p>
+<p>
+  
+<h4>Propriets</h4>
+<a href="https://imgur.com/AmLY4SZ"><img src="https://i.imgur.com/AmLY4SZ.png" title="source: imgur.com" /></a>
+<p>
+<p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h4>Pom.xml</h4>
+<a href="https://imgur.com/6q0uLZl"><img src="https://i.imgur.com/6q0uLZl.png" title="source: imgur.com" /></a>
+<p>
+<p>
 
-## Build
+<h4>Tela de cadastro</h4>
+<a href="https://imgur.com/Qj02k1q"><img src="https://i.imgur.com/Qj02k1q.png" title="source: imgur.com" /></a>  
+<p>
+<p>
+  
+<h4>Tela de login/h4>
+<a href="https://imgur.com/keLHgZe"><img src="https://i.imgur.com/keLHgZe.png" title="source: imgur.com" /></a> 
+<p>
+<p>
+  
+<h4>Tela inicial</h4>  
+<a href="https://imgur.com/oANkWF3"><img src="https://i.imgur.com/oANkWF3.png" title="source: imgur.com" /></a>
+<p>
+<p>
+  
+<h4>Tela de postagem</h4>  
+<a href="https://imgur.com/s2x09ic"><img src="https://i.imgur.com/s2x09ic.png" title="source: imgur.com" /></a>
+<p>
+<p>
+  
+<h4>Tela de tema (edição/delete)</h4>  
+<a href="https://imgur.com/j7s8IG2"><img src="https://i.imgur.com/j7s8IG2.png" title="source: imgur.com" /></a> 
+<p>
+<p>
+  
+<h4>Tela do perfil pessoal</h4>  
+<a href="https://imgur.com/7qZDwvX"><img src="https://i.imgur.com/7qZDwvX.png" title="source: imgur.com" /></a>
+<p>
+<p>
+  
+🕹<h4>Tecnologias</h4>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<h4>Java</h4>  
+<h4>MySQL</h4>  
+<h4>Spring</h4> 
 
-## Running unit tests
+🖱<h4>Linguagens</h4>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<h4>HTML5</h4>  
+<h4>CSS3</h4>  
+<h4>JavaScript</h4> 
+ 
+🎨 <h4>Projeto</h4>
+  
+<h5>Finalizado (sujeito a melhorias)</h5>
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+📩 <h4>Avisos</h4>
+  
+<h5>O Projeto pode ser acessado e cadastrado por qualquer pessoa, a diferença do usuário normal para o administrador é que o administrador pode editar e deletar suas postagens.</h5>
