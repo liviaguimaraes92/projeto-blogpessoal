@@ -52,9 +52,11 @@ link do projeto: https://darkrad.herokuapp.com/
   
 🕹 Tecnologias
 
-<h4>Java</h4>  
-<h4>MySQL</h4>  
-<h4>Spring</h4> 
+Java
+<p>  
+MySQL
+<p>  
+Spring
 
 🖱 Linguagens
 
