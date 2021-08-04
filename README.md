@@ -58,9 +58,13 @@ link do projeto: https://darkrad.herokuapp.com/
 
 🖱 Linguagens
 
-<h4>HTML5</h4>  
-<h4>CSS3</h4>  
-<h4>JavaScript</h4> 
+HTML5  
+<p>
+CSS3  
+<p>
+JavaScript
+<p>
+TypeScript
  
 🎨 Projeto
   
