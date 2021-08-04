@@ -25,7 +25,7 @@ link do projeto: https://darkrad.herokuapp.com/
 <p>
 <p>
   
-<h4>Tela de login/h4>
+<h4>Tela de login</h4>
 <a href="https://imgur.com/keLHgZe"><img src="https://i.imgur.com/keLHgZe.png" title="source: imgur.com" /></a> 
 <p>
 <p>
@@ -50,22 +50,22 @@ link do projeto: https://darkrad.herokuapp.com/
 <p>
 <p>
   
-🕹<h4>Tecnologias</h4>
+🕹 Tecnologias
 
 <h4>Java</h4>  
 <h4>MySQL</h4>  
 <h4>Spring</h4> 
 
-🖱<h4>Linguagens</h4>
+🖱 Linguagens
 
 <h4>HTML5</h4>  
 <h4>CSS3</h4>  
 <h4>JavaScript</h4> 
  
-🎨 <h4>Projeto</h4>
+🎨 Projeto
   
 <h5>Finalizado (sujeito a melhorias)</h5>
 
-📩 <h4>Avisos</h4>
+📩 Aviso:
   
 <h5>O Projeto pode ser acessado e cadastrado por qualquer pessoa, a diferença do usuário normal para o administrador é que o administrador pode editar e deletar suas postagens.</h5>
