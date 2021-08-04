@@ -1,4 +1,4 @@
-Nesse repositório está o projeto que desenvolvi para aprender e fixar os conhecimentos back-end e front-end. O darkrad é um projeto de blog pessoal com tematica a escolha própria, como parte dos estudos da Generation Brasil.
+Nesse repositório está o projeto que desenvolvi para aprender e praticar os conhecimentos back-end e front-end. O darkrad é um projeto de blog pessoal com tematica a escolha própria, como parte dos estudos da Generation Brasil.
 
 link do projeto: https://darkrad.herokuapp.com/
 
